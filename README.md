@@ -1,7 +1,7 @@
 # Primer paso
 
 Enfoque Frontend (Debido a que se esta utilizando un api - servicio de datos, y por lo
-tanto no es necesario el uso del api)
+tanto no es necesario el uso de un backend)
 
 ## Segundo paso
 
